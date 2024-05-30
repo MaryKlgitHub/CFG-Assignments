@@ -1,6 +1,6 @@
 # CFG-Assignments
 
-Welcome to the CFG-Assignments repository! This repository contains various coding assignments and projects related to the Code First Girls (CFG) course. One of the key projects in this repository is a console application that interacts with the Star Wars API (SWAPI) to provide details about Star Wars characters.
+Welcome to the CFG-Assignments repository! This repository contains various coding assignments and projects related to the Code First Girls (CFG) course. The first project in this repository is a console application that interacts with the Star Wars API (SWAPI) to provide details about Star Wars characters.
 
 ## Project Description
 
@@ -95,3 +95,4 @@ For questions or suggestions, please reach out to me via GitHub issues or direct
 ---
 
 Thank you for visiting the CFG-Assignments repository! I hope you find the Star Wars Character Console App both fun and educational.
+
