@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, please reach out to me via GitHub issues or directly at [klepacimarina@gmail.com](klepacimarina@gmail.com).
+For questions or suggestions, please reach out to me via GitHub issues or directly at [klepacimarina@gmail.com](mailto:klepacimarina@gmail.com).
 
 ---
 
