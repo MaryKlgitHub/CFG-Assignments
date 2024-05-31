@@ -1,3 +1,24 @@
+"""
+Star Wars Character Console App
+
+This console application interacts with the Star Wars API (SWAPI) to provide details about Star Wars characters.
+
+Features:
+- Displays a list of Star Wars characters.
+- Allows the user to select a character from the list.
+- Provides information on how to dress like the selected character.
+- Retrieves additional details such as the character's birthplace, birth year, and the ship they flew on.
+
+Requirements Fulfilled:
+- Uses boolean values and if..else statements for branching logic.
+- Utilizes data structures like lists and dictionaries.
+- Implements for loops and functions with returns to reduce repetition and make the code reusable.
+- Employs string slicing for formatting character details.
+- Utilizes at least two inbuilt functions.
+- Interacts with a free API (SWAPI) to get character information as JSON.
+- Adds comments to explain API setup and usage, and includes a brief program overview.
+
+"""
 import requests
 import json
 import random
