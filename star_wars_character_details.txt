@@ -1,0 +1,13 @@
+Character: Owen Lars
+Height: 178 cm
+Mass: 120 kg
+Hair Color: brown, grey
+Skin Color: light
+Eye Color: blue
+Birth Year: 52BBY
+Gender: male
+
+Dressing Advice:
+Wear a simple tunic and boots, preferably in neutral colors like beige or brown.
+
+Flew on: Slave I
