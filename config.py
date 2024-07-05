@@ -6,6 +6,6 @@ DB_HOST = os.getenv('DB_HOST', 'localhost')
 # Database username
 DB_USER = os.getenv('DB_USER', 'root')
 # Database password
-DB_PASSWORD = os.getenv('DB_PASSWORD', 'klepacH1988!')
+DB_PASSWORD = os.getenv('DB_PASSWORD', 'your_password')
 # Database name
 DB_NAME = os.getenv('DB_NAME', 'travel_itinerary')
